@@ -1,0 +1,15 @@
+{
+  "audio": "god.mp3",
+  "imageCycleTimeMs": 200,
+  "minRunTimeMs": 4000,
+  "maxRunTimeMs": 8000,
+  "images": [
+    "coffee.jpg",
+    "icedCoffee.jpg",
+    "americano.jpg",
+    "espresso.jpg",
+    "latte.jpg",
+    "chaiLatte.jpg",
+    "chaiTea.jpg"
+  ]
+}
